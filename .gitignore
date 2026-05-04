@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# PDFs (papers, not code)
+*.pdf
+
+# Obsidian vault
+obsidian/
+
+# Meeting notes
+meetings/
+
+# Misc UI components (not part of experiments)
+*.jsx
+*.ics
+
+# Info folder
+Info/
